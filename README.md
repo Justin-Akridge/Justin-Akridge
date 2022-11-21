@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Justin-Akridge
 - 👀 I’m interested in open source react projects
-- 🌱 I’m currently learning rust!
+- 🌱 I’m currently learning React!
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me akridjus@gmail.com
 
